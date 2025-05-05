@@ -99,3 +99,8 @@
     font-style:italic;
     color: var(--dark-color);
 }
+.author {
+    color: var(--dark-color);
+    text-align: right;
+    font-weight: 1000;
+}
