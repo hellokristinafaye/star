@@ -36,6 +36,13 @@
     background: var(--dark-color);
     padding: 150px 200px;
 }
+.left {
+    flex-basis: 45%;
+}
 .hero-title {
     color: var(--bright-color);
+}
+.hero-text {
+    color: var(--mid-color);
+    font-size: 18px;
 }
