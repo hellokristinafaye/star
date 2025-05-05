@@ -88,3 +88,8 @@
     font-size: 18px;
     font-weight: 10;
 }
+
+.quote-container {
+    background: var(--mid-color);
+    padding: 200px 400px;
+}
