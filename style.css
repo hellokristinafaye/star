@@ -70,7 +70,7 @@
 }
 
 .box-container {
-    
+    display: flex;
 }
 .box-unit {
     width: 150px;
