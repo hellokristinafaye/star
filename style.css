@@ -11,3 +11,11 @@
     --button-color: #3882F6;
 }
 
+.sticky-navbar {
+    background: var(--dark-color);
+    color: var(--bright-color);
+    display: flex;
+    padding: 20px 200px;
+    justify-content: space-between;
+}
+
