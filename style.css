@@ -123,3 +123,10 @@
     left: 150px;
     top: 15px;
 }
+
+.copyright-text {
+    background: var(--dark-color);
+    color: var(--mid-color);
+    padding: 30px 0;
+    text-align: center;
+}
