@@ -69,9 +69,17 @@
     font-weight: 900;
 }
 
+.box-unit {
+    width: 150px;
+}
 .blue-box {
     height: 150px;
     width: 150px;
     border: 3px solid var(--button-color);
     border-radius: 15px;
+}
+.box-caption {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 10;
 }
