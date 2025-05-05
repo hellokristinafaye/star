@@ -113,3 +113,13 @@
     margin: 150px 200px;
     border-radius: 15px;
 }
+/* .CTA-right {
+    flex-basis: 40%;
+} */
+.CTA-right button {
+    margin: 0 50px;
+    border: 2px solid var(--bright-color);
+    position: relative;
+    left: 150px;
+    top: 15px;
+}
