@@ -104,3 +104,12 @@
     text-align: right;
     font-weight: 1000;
 }
+
+.CTA-container {
+    background: var(--button-color);
+    padding: 50px 110px;
+    color: var(--bright-color);
+    display: flex;
+    margin: 150px 200px;
+    border-radius: 15px;
+}
