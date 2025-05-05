@@ -31,3 +31,8 @@
     padding: 0 15px;
 }
 
+.container {
+    display: flex;
+    background: var(--dark-color);
+    padding: 150px 200px;
+}
