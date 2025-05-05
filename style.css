@@ -54,3 +54,9 @@
     border-radius: 15px;
     margin-top: 10px;
 }
+.img-placeholder {
+    background: grey;
+    color: var(--mid-color);
+    padding: 100px 125px;
+    margin-left: 80px;
+}
