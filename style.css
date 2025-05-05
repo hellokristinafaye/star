@@ -46,3 +46,7 @@
     color: var(--mid-color);
     font-size: 18px;
 }
+.sign-up {
+    background: var(--button-color);
+    color: var(--bright-color);
+}
