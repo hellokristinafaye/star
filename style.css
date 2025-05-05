@@ -93,3 +93,9 @@
     background: var(--mid-color);
     padding: 200px 400px;
 }
+.quote-text {
+    font-size: 36px;
+    font-weight: 100;
+    font-style:italic;
+    color: var(--dark-color);
+}
