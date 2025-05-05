@@ -71,6 +71,8 @@
 
 .box-container {
     display: flex;
+    justify-content: space-between;
+    padding: 10px 400px 100px 400px;
 }
 .box-unit {
     width: 150px;
