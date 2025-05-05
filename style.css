@@ -5,5 +5,9 @@
     margin: 0;
     padding: 0;
     font-family: roboto, sans-serif;
+    --dark-color: #1F2937;
+    --bright-color: #F9FAF8;
+    --mid-color: #E5E7EB;
+    --button-color: #3882F6;
 }
 
